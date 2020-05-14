@@ -1,0 +1,11 @@
+{
+  "name": "${project.artifactId}",
+  "version": "${project.version}",
+  "main": "${mainClass}",
+  "permissions": {
+    "titan.module.commandnpc.admin": {
+      "default": "OP",
+      "description": "Access to add and reset npc commands"
+    }
+  }
+}

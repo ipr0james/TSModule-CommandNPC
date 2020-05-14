@@ -1,0 +1,11 @@
+{
+  "name": "TSModule-CommandNPC",
+  "version": "1.0.0-b001",
+  "main": "net.thenova.titan.spigot.module.commandnpc.CommandNPC",
+  "permissions": {
+    "titan.module.commandnpc.admin": {
+      "default": "OP",
+      "description": "Access to add and reset npc commands"
+    }
+  }
+}

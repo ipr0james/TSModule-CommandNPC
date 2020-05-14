@@ -1,0 +1,4 @@
+net\thenova\titan\spigot\module\commandnpc\commands\CitizensCommand.class
+net\thenova\titan\spigot\module\commandnpc\listeners\InteractEvent.class
+net\thenova\titan\spigot\module\commandnpc\CommandNPC.class
+net\thenova\titan\spigot\module\commandnpc\handler\NPCHandler.class
